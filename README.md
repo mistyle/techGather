@@ -1,57 +1,23 @@
-# Introduction
 
 <div align="center">  
 
+<img src="https://mistyle.top/images/wechat-qcode.jpg" width=""/> 
+<br/>
 
 
-[qq0groupsvg]: https://img.shields.io/badge/QQ%E7%BE%A4-787381170-yellowgreen.svg
-[qq0group]: https://jq.qq.com/?_wv=1027&k=5HPYvQk
+</div><br>
 
 
-<br>
+> `Tech Gather`： 技术收集。
 
-
- `Tech Gather`： 技术收集。
+**访问这里获取更好的阅读体验**：[https://mistyle.top/techGather/](https://mistyle.top/techGather/)
 
 <br/>
 
-</div>
 
 
-----------
+### 联系作者
 
+> aaplp@qq.com
 
-# CONTACT
-
-<div align="center">
-
-[个人博客](https://mistyle.top)
-
-[GitHub](https://github.com/crossoverJie "github")
-
-[aaplp@qq.com](mailto:aaplp@qq.com)
-
-
----
-
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
-
-
----
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
-
----
-
-<iframe width="560" height="315" src="" frameborder="0" allowfullscreen></iframe>
-
----
-
-
-**欢迎我的关注公众号一起交流：**
-
-![](https://mistyle.top/images/wechat-qcode.jpg)
-
-</div>
-
-
-
+<img src="https://mistyle.top/images/wechat-qcode.jpg" width="300"/> 
