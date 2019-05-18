@@ -14,7 +14,7 @@
     window.$docsify = {
       name: 'TechGather',
       repo: 'https://github.com/mistyle/techGather',
-      disqus: 'crossoverJie',
+      disqus: 'mistyle',
       loadSidebar: true ,
       coverpage: true,
       subMaxLevel: 2,
